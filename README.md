@@ -28,12 +28,12 @@ This is a website I built in 2017 for a gym.
 
 ### Laptop version
 
-![A screenshot of this website on a laptop](https://github.com/paologhidoni/tokei/blob/main/public/img/tokei-laptop.png)
+![A screenshot of this website on a laptop](public/img/tokei-laptop.png)
 
 
 ### Mobile version
 
-![A screenshot of this website on a mobile phone](https://github.com/paologhidoni/tokei/blob/main/public/img/tokei-mobile.jpg)
+![A screenshot of this website on a mobile phone](public/img/tokei-mobile.jpg)
 
 
 
